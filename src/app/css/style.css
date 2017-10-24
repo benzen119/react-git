@@ -1,0 +1,23 @@
+
+body{
+    background: #E4AF54;
+  }
+
+#search-form{
+    margin-bottom: 20px;
+}
+
+.main-container{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.avatar-img{
+    height: 400px;
+    /* display: block;
+    margin: auto; */
+}
+
+p{
+    font-weight: 700;
+}
